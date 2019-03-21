@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Mar 20 22:43:34 2019
+Created on Wed Mar 18 22:43:34 2019
 
 @author: RIYA JAIN
 """
@@ -109,4 +109,4 @@ main()
 #EuclideanDistance Accuracy: 100.0%
 #ManhattanDistacne Accuracy: 96.7741935483871%
 #ChebyshevDistance Accuracy: 97.67441860465115%
-#SoergelDistance Accuracy: 35.714285714285715%
+#SoergelDistance Accuracy: 92.714285714285715%
